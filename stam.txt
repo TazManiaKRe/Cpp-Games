@@ -1,0 +1,379 @@
+according to the article below:
+Describe and explain which stages of the social information processing model the victims have difficulty with...
+
+
+Interpretation of Cues
+The second step of the SIP model concerns the interpretation of
+cues in a social situation. People interpret the intent of other
+individuals (intent attributions) and the reasons why particular
+events have occurred (causal attributions). In addition, according to Crick and Dodge (1994), people engage in other interpretative processes, that is, evaluations of goal attainment, past
+performance, self, and others. In the next paragraphs, we will
+discuss findings about (1) hostile attributions, (2) causal attributions, (3) general evaluations, and (4) additional types of
+interpretation. For an overview, see Table 3.
+Intent attributions. Fourteen of the included studies have
+addressed associations between intent attributions and victimization. The studies examined intent attributions by questions
+about intentions of another person in a hypothetical story
+(e.g., Berlin, Appleyard, & Dodge, 2011; Calvete & Orue,
+2011; Camodeca & Goossens, 2005). In general, the studies
+support that victims have more hostile attributions (e.g.,
+Pornari & Wood, 2010; Prinstein, Cheah, & Gyer, 2005; Yeung
+& Leadbeater, 2007). Peer victimization (predominantly at
+school) was most often examined, but the relationship between
+intent attributions and victimization was also found for victimization at home and in the neighborhood. The two longitudinal
+studies about intent attributions suggest that the direction of the
+association between hostile attributions is bidirectional: hostile
+attributions predict victimization (Calvete & Orue, 2011) and
+victimization predicts hostile attributions (Perren, Ettekal, &
+Ladd, 2013).
+It seems that associations between intent attributions and
+victimization are weaker the more time has passed since being
+victimized, as no association was found between intent attributions and childhood abuse among adults (Berlin et al., 2011).
+Possibly, intent attributions change in time due to other experiences, which leads to less association with previous victimization. In addition, associations seem weaker among victims of
+mild, rather than severe, violence (Shahinfar, Kupersmidt, &
+Matza, 2001), suggesting that mild forms of violence have less
+impact (change intent attributions less) than severe violence.
+Causal attributions. Studies about causal attributions especially
+focus on the perceived locus of control. This is the belief that
+a certain situation is under the subject’s own (internal) control,
+or under outside (external) control, such as luck or powerful
+others (Crick & Dodge, 1994). Causal attributions are often
+measured by general scales (e.g., Catterson & Hunter, 2010;
+Christiansen & Evans, 2005).
+Seven cross-sectional studies have addressed the external
+locus of control. The results suggest that victims are generally
+under the impression that a situation is less under their control,
+that is, the victims have a higher external locus of control (e.g.,
+Christiansen & Evans, 2005; Fredstrom, Adams, & Gilman,
+2011). The locus of control may have changed over time, since
+associations seem weaker the more time has elapsed since
+being victimized, as no association was found between external
+locus of control and child abuse (Mannarino & Cohen, 1996).
+The relation between internal locus of control and victimization was addressed in seven studies. Two of them focus on
+internal locus of control in general. Victims of rape were found
+to have a lower internal locus of control (Miller, Monson, &
+Norton, 1995). One study about child abuse did not find a relation between internal locus of control and experiencing victimization but did find that child abuse on multiple occasions, as
+opposed to one occasion, was related to a diminished internal
+locus of control (Bolstad & Zinbarg, 1997), suggesting that victimization with a higher impact may result in lower perceived
+internal control.
+Although victims have a higher external locus of control and
+seem to have a lower internal locus of control in general, they
+have a more internal locus of control in negative situations, for
+example, self-blame (e.g., Prinstein et al., 2005). Longitudinal
+studies suggest that this association is bidirectional: an internal
+locus of control in a negative situation predicts victimization
+(Shelley & Craig, 2010) and victimization predicts an internal
+locus of control in a negative situation (Gibb & Abela, 2008).
+
+Evaluations. Studies about evaluations focus on evaluations or
+perceptions of self or others and are often measured by general
+scales (e.g., Bowling et al., 2010; Cole, Maxwell, Dukewich, &
+Yosik, 2010). Thirteen studies have addressed the relationship
+between evaluations of self or others and victimization. All but
+one of these studies support the idea that victims have more
+Table 3. (continued)
+Source Design Sample
+Type and Measurement of
+Victimization
+Type and Measurement of Interpretation of Cues
+Found Relation
+Victims Have ...
+Linder, Crick, and
+Collins (2002)
+Cross-sectional N ¼ 104 (70 female)
+undergraduate and
+graduate students. M ¼
+20.6 (2.7) years, Range
+18–30
+Relational
+victimization,
+self-report
+Evaluations, selfreport
+Less trust (r ¼ –.42,
+p < .001)
+Neary and Joseph
+(1994)
+Cross-sectional N ¼ 60 (60 female)
+students. M ¼ 11 years,
+Range 10–12
+Peer
+victimization,
+peer report
+Evaluations, selfreport
+More negative selfevaluations (t ¼ –1.73,
+p < .05)
+Reid-Quinones et al.
+(2011)
+Cross-sectional N ¼ 263 (134 female)
+students in Grade 5 or
+8. M ¼ 12.06 (1.61)
+years
+Physical
+victimization
+(by peers or
+others), selfreport
+Evaluations, selfreport
+More negative selfevaluations (6.21 vs. 5.54,
+p < .05)
+Rudolph, TroopGordon, and
+Flynn (2009)
+Cross-sectional N ¼ 206 (110) female)
+children. M ¼ 10.13
+(1.16) years, Range
+7.75–13.50
+Peer
+victimization
+(relational),
+self-report
+Evaluations, selfreport
+More negative evaluations
+with others (r ¼ .22,
+p < .01)
+Salmivalli and Isaacs
+(2005)
+Longitudinal N ¼ 212 (105 female)
+students in Grades 5
+and 6. Range 11–13
+years
+Peer
+victimization,
+peer report
+Evaluations, selfreport
+Negative self-evaluations
+(b ¼ –.08, p < .05) but
+not evaluations of others
+positively predict victimization 4 months later.
+Victimization predicts
+negative evaluations of
+others (b ¼ –.10, p < .10)
+but not self-evaluations 8
+months later
+Taylor, Sullivan, and
+Kliewer (2013)
+Cross-sectional N ¼ 326 (175 female)
+students in Grade 5
+and 8. M ¼ 12.1 (1.6)
+years, Range 10–16.
+Peer
+victimization,
+self-report
+Evaluations, selfreport
+More negative selfevaluations (r ¼ .22,
+p < .001)
+Troop-Gordon and
+Ladd (2005)
+Longitudinal N ¼ 399 (193 female)
+children, M ¼ 5.52,
+9.63 and 11.71 years
+(three waves)
+Peer victimization
+(physical,
+verbal and
+general), peer
+report
+Evaluations, selfreport
+Victimization predicts
+negative cognitions.
+Negative self-evaluations
+but not evaluations of
+others, predict changes in
+victimization (time span of
+2 years)
+Interpretation of cues: Other interpretations
+Elwood et al. (2007) Cross-sectional N ¼ 81 (81 female)
+undergraduate
+psychology students.
+M ¼ 19.57 (1.17) years
+Sexual
+victimization,
+self-report
+Other
+interpretations,
+self-report based
+on hypothetical
+stories
+More predictability (t ¼
+2.43, p < .05) and higher
+perceived escalation of
+threat (t ¼ 2.02, p < .05)
+Soler-Baillo, Marx,
+and Sloan (2005)
+Cross-sectional N ¼ 97 (97 female)
+undergraduate
+students. M ¼ 19.55
+(2.76) years
+Sexual
+victimization,
+self-report
+Other
+interpretations,
+Heart rate
+activity
+Slower in identifying risk;
+F(4.12), p < .001
+Yeater, Treat, Viken,
+and McFall (2010)
+Cross-sectional N ¼ 194 undergraduate
+psychology students.
+M ¼ 19.52 (1.39) years
+Sexual
+victimization,
+self-report
+Other
+interpretations,
+Explicit
+classification task
+Attribute less risk (d ¼ –.43,
+p < .01)
+Note. ns ¼ not statistically significant.
+van Reemst et al. 11
+negative general evaluations (e.g., Cole et al., 2010; Taylor,
+Sullivan, & Kliewer, 2013). This is most often studied for victims of peer victimization but was also found among other
+types of victimization such as workplace victimization and sexual victimization (e.g., Bowling et al., 2010). Longitudinal
+studies show that negative self-evaluations, but not evaluations
+of others, predict victimization (e.g., Bowling et al., 2010),
+whereas victimization predicts negative evaluations of others
+but not negative self-evaluations (Salmivalli & Isaacs, 2005).
+Other interpretation aspects. Cross-sectional studies about victims addressed aspects of interpretation that were not already
+included in the SIP model. Victims have a different subjective
+estimate of risk, according to three studies among females. Victims attributed more unpleasantness toward threatening situations but were also slower in identifying risk (Soler-Baillo,
+Marx, & Sloan, 2005). Victims attributed less risk to situations
+in hypothetical dating situations or when socially interacting
+with men (Yeater, Treat, Viken, & McFall, 2010), but victims
+perceived threatening social situations to be more predictable
+and more quickly increasing in risk (Elwood, Williams, Olatunji, & Lohr, 2007). A possible explanation is that being
+slower in identifying risk may cause delay in an appropriate
+reaction, which puts an individual at risk of victimization. This
+may result in considering a situation as less risky in general and
+more quickly increasing in risk at a later moment, when in fact,
+risk was already present. In the other direction, victims may
+consider risky situations to be more ‘‘normal’’ because they
+have been in a risk situation before and therefore attribute less
+risk and more predictability to the situation. However, more
+research is needed on these types of interpretations, among
+both men and female, as only few studies were available.
+Conclusion on the interpretation of cues. Most studies offer support for the link between interpretation and victimization. Victims are more likely to display hostile attributions and external
+locus of control in general, more internal locus of control in
+negative situations, and more negative evaluations of self and
+others. Longitudinal studies suggest that the associations
+between victimization and hostile attributions of intent and
+internal locus of control in negative situations are bidirectional.
+In addition, negative self-evaluations predict victimization,
+whereas victimization predicts negative evaluations of others.
+Also, the subjective estimate of risk seems related to victimization, which was not yet part of the SIP model.
+Clarification of Goals
+The third step of the model is the clarification of goals. Goals are
+orientations toward producing particular outcomes (Crick &
+Dodge, 1994). Six cross-sectional studies have addressed the
+association between goals and victimization. These studies measure people’s goals in various ways, such as asking about goals
+in a hypothetical situation (e.g., Camodeca & Goossens, 2005;
+Rudolph, Troop-Gordon, & Flynn, 2009) or having psychologists code the goals of people reexperiencing a situation (ReidQuinones et al., 2011). Research on the clarification of goals
+among victims addressed (1) hostile social goals, (2) goals of
+wanting to be liked, (3) avoidance goals, and (4) an additional
+goal, the goal of self-protection. However, the different types
+of goals have only been addressed in few studies all of which are
+about peer victimization. For an overview, see Table 4.
+Hostile social goals. According to studies about hostile social
+goals, victims have more revenge goals (Camodeca & Goossens,
+2005; Reid-Quinones et al., 2011) and victims of severe victimization have more general hostile social goals (including revenge,
+dominance, avoidance, and affiliation; Shahinfar et al., 2001),
+but no differences were found for goals of dominance in another
+study (Sijtsema, Veenstra, Lindenberg, & Salmivalli, 2009).
+Wanting to be liked. Studies about goals related to wanting to be
+liked found that victims have more goals of wanting to impress
+(Rudolph et al., 2009) and less goals of developing relationships (Rudolph, 2010) than nonvictims. The importance of
+wanting to have a nice time together and feel less angry was not
+associated with victimization (Camodeca & Goossens, 2005).
+Avoidance goals. No association was found between having goals
+of avoidance (e.g., desire not to experience tension or victimization) and victimization (Reid-Quinones et al., 2011). The desire to
+endure a situation with the least amount of loss, that is, selfprotection goals, was however less present in victims than in people who witnessed victimization (Reid-Quinones et al., 2011).
+Conclusions about the clarification of goals. On the whole, research
+on goals has focused on a range of goals, with varying conclusions. Studies suggest that victims may regard revenge goals
+and impressing goals as more important, while relationship
+development goals are perceived as less important. No difference is observed in other goals, such as wanting to have a nice
+time together, feeling less angry, or avoidance goals. In addition, victims may think pursuing the goal of self-protection is
+less important. However, more research is necessary to confirm
+these findings also among other types of victimization.
+Response Generation
+The fourth step of the SIP model, response generation, refers to
+the repertoire of responses people hold for a specific situation.
+This may refer to the number, type, and the order of responses
+that people access. This step is hardly studied in relation to victimization. Only the type of responses that victims access was
+assessed in one cross-sectional study (Warden & Mackinnon,
+2003). In this survey, children were asked to provide a number
+of possible solutions (what could you do ... ?) in a hypothetical problem situation, which were coded as aggressive, passive,
+or assertive. It was found that victims did not differ in generating these types of solutions to problem situations (Warden &
+Mackinnon, 2003). For more information about this study, see
+Table 5. Thus, no support was found for the idea that response
+generation was related to victimization.
+
+self-efficacy and (2) self-efficacy for communication. These
+types of self-efficacy are not response related as are the studies
+about evaluations described earlier as part of the interpretation
+of cues step of the SIP model. They may affect the outcome of
+situations, as they seem to be strongly related to self-esteem
+(e.g., Judge, Erez, Bono, & Thoresen, 2002), which influences
+outcomes according to the SIP model (Crick & Dodge, 1994).
+General self-efficacy is an individual’s general confidence
+in one’s coping ability. According to studies, victims have
+lower general self-efficacy (Bender, Ferguson, Thompson,
+Komlo, & Pollio, 2010; Fredstrom et al., 2011; Walsh &
+Foshee, 1998). However, no association was found between
+general self-efficacy and victimization among older participant
+groups (Comijs, Jonker, Van Tilburg, & Smit, 1999; Mikkelsen
+& Einarsen, 2002), possibly because they have more fixed patterns of SIP.
+Findings about self-efficacy for communication seem
+dependent on the type of communication. More specifically,
+victims of sexual victimization had lower self-efficacy for
+communication about sexuality (including refusing sex and
+contraception; Hovsepian, Blais, Manseau, Otis, & Girard,
+2010). No associations were found between victimization and
+self-efficacy for persuasive communication (i.e., propose a
+game; Camodeca & Goossens, 2005) or between nonsexual
+types of dating victimization and self-efficacy for communication about sexuality (Hovsepian et al., 2010). An association
+between self-efficacy and victimization was thus only found
+when the topic of communication was related to the type of victimization the victim experienced. However, more research is
+necessary to confirm this idea.
+Conclusions about self-efficacy. Generally, studies found that selfefficacy for assertion was lower and self-efficacy for aggression was higher among victims. Additionally, victims had
+lower general self-efficacy and lower self-efficacy for communication about topics related to the type of victimization they
+experienced. More research is needed to draw conclusions
+about other types of self-efficacy. The studies did not offer
+insight into the direction of the associations.
+Response selection. At the final stage of response decision, a
+selection of a response is made. Seven of eight studies have
+provided support for the idea that response selection is related
+to victimization. These studies addressed (1) aggressive, (2)
+assertive, (3) avoidant, and (4) impulsive response selection.
+Aggressive response selection. Victims have more aggressive
+response selection (Barnett, Barlett, Livengood, Murphy, &
+Brewton, 2010; Berlin et al., 2011; Shelley & Craig, 2010).
+According to the longitudinal studies reviewed, aggressive
+response selection predicted peer victimization (KochenderferLadd, 2004), but victimization in several contexts (e.g., school,
+neighborhood and home) did not predict aggressive response
+selection, although it was related cross-sectionally (Calvete &
+Orue, 2011).
+Assertive/prosocial response selection. According to a crosssectional study, victims select less assertive responses ( Garner
+& Lemerise, 2007; Yeater & Viken, 2010). In accordance with
+a longitudinal study, conflict resolution, but not advice seeking,
+even predicts victimization over time (e.g., KochenderferLadd, 2004). There were indications that assertive response
+selection was strongly related to more severe forms of victimization (physical versus relational victimization; Garner &
+Lemerise, 2007), possibly because severe victimization has
+more impact on victims.
+Avoidant and impulsive response selection. The relationship
+between avoidant response selection and victimization is found
+to be more mixed. Kochenderfer-Ladd (2004) found a relation
+between the two, whereas Barnett, Barlett, Livengood, Murphy, and Brewton (2010) did not. Another study found variations within the study: more avoidant response selection
+was related to victimization among boys but not among girls
+(Shelley & Craig, 2010). More research is needed to be
+able to explain these differences. According to the only
+longitudinal study on this response selection and victimization, avoidant response selection positively predicts victimization (Kochenderfer-Ladd, 2004). Impulsive response
+selection was also found to be positively associated with
+victimization in a cross-sectional study (Archer et al., 2007).
+Conclusions about response selection. Generally, studies suggest
+that aggressive and low assertive response selection is related
+to victimization. Victims also seem to select more impulsive
+responses. In line with longitudinal studies, aggressive, avoidant, and low assertive response selection positively predict
+victimization. Victimization did not predict aggressive
+response selection. However, due to the few studies available
+on the same type of response, more research is necessary to
+confirm these findings and to be able to explain inconsistencies
+in findings of avoidant response selection.
